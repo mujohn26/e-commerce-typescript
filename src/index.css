@@ -1,0 +1,17 @@
+.product {
+  padding: 2px 0;
+}
+.product .name {
+  width: 200px;
+  display: inline-block;
+}
+
+.product .price {
+  width: 100px;
+  display: inline-block;
+}
+
+.basket-item .name {
+  width: 200px;
+  display: inline-block;
+}
